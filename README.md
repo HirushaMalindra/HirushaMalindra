@@ -22,12 +22,21 @@ $\color{#55ffff}{\text{𝑨𝑰 , 𝑪𝒚𝒃𝒆𝒓𝒔𝒆𝒄𝒖𝒓𝒊�
 $\color{#55ffff}{\text{𝑾𝒐𝒓𝒌𝒊𝒏𝒈 𝒕𝒐𝒘𝒂𝒓𝒅𝒔 𝒃𝒖𝒊𝒍𝒅𝒊𝒏𝒈 𝒔𝒆𝒄𝒖𝒓𝒆 𝒂𝒏𝒅 𝒊𝒏𝒕𝒆𝒍𝒍𝒊𝒈𝒆𝒏𝒕 𝒔𝒐𝒍𝒖𝒕𝒊𝒐𝒏𝒔}}$
 
 </div>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200">
+
 <!--securityknightocat image-->
 <div>
 <img align="right" width="300" height="300" alt="securityknightocat-Photoroom" src="https://github.com/user-attachments/assets/80b2e0cb-405a-46b3-8f8b-37114408b21b" /></div>
 
+<p align="left">
+𝐈 𝐚𝐦 𝐚 𝐩𝐚𝐬𝐬𝐢𝐨𝐧𝐚𝐭𝐞 𝐈𝐓 𝐮𝐧𝐝𝐞𝐫𝐠𝐫𝐚𝐝𝐮𝐚𝐭𝐞 𝐝𝐞𝐝𝐢𝐜𝐚𝐭𝐞𝐝 𝐭𝐨 𝐟𝐮𝐥𝐥-𝐬𝐭𝐚𝐜𝐤 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭, 𝐜𝐥𝐨𝐮𝐝 𝐢𝐧𝐟𝐫𝐚𝐬𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞, 𝐚𝐧𝐝 𝐢𝐧𝐭𝐞𝐥𝐥𝐢𝐠𝐞𝐧𝐭 𝐬𝐲𝐬𝐭𝐞𝐦𝐬. 𝐈 𝐞𝐧𝐣𝐨𝐲 𝐭𝐮𝐫𝐧𝐢𝐧𝐠 𝐜𝐨𝐦𝐩𝐥𝐞𝐱 𝐩𝐫𝐨𝐛𝐥𝐞𝐦𝐬 𝐢𝐧𝐭𝐨 𝐬𝐞𝐜𝐮𝐫𝐞, 𝐫𝐞𝐚𝐥-𝐰𝐨𝐫𝐥𝐝 𝐭𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐬𝐨𝐥𝐮𝐭𝐢𝐨𝐧𝐬.
+</p>
+- I'm 23 years old.<br>
+- 🌱 Currently pursuing a BSc in Information Technology at 𝑻𝒉𝒆 𝑶𝒑𝒆𝒏 𝑼𝒏𝒊𝒗𝒆𝒓𝒔𝒊𝒕𝒚 𝒐𝒇 𝑺𝒓𝒊 𝑳𝒂𝒏𝒌𝒂.<br>
+- ☁️ Deeply interested in 𝐂𝐥𝐨𝐮𝐝 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞 (𝐀𝐖𝐒 & 𝐀𝐳𝐮𝐫𝐞), 𝐂𝐲𝐛𝐞𝐫𝐬𝐞𝐜𝐮𝐫𝐢𝐭𝐲, & 𝐀𝐫𝐭𝐢𝐟𝐢𝐜𝐢𝐚𝐥 𝐈𝐧𝐭𝐞𝐥𝐥𝐢𝐠𝐞𝐧𝐜𝐞 <br>
+- 🔭 I’m currently working on full-stack web apps & AI/ML projects<br>
+- 👯 Looking to collaborate on open-source AI projects, cloud-native apps, or cybersecurity tools<br>
 
-
-
+---
 
 ![My GitHub Game](game.gif)
