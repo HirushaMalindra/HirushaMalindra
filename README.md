@@ -25,7 +25,8 @@ $\color{#55ffff}{\text{𝑾𝒐𝒓𝒌𝒊𝒏𝒈 𝒕𝒐𝒘𝒂𝒓𝒅𝒔
 <!--securityknightocat image-->
 <div>
 <img align="right" width="300" height="300" alt="securityknightocat-Photoroom" src="https://github.com/user-attachments/assets/80b2e0cb-405a-46b3-8f8b-37114408b21b" /></div>
-![Uploading securityknightocat-removebg-preview.png…]()
+
+
 
 
 
