@@ -718,7 +718,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 204.599803250532;
+        stroke-dashoffset: 203.58106191334082;
       }
     }
   
@@ -745,7 +745,7 @@
 </style>
 <svg fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="descId" x="16" y="44" width="358" height="150" preserveAspectRatio="xMinYMin meet" viewBox="0 0 467 195">
         <title id="titleId">HirushaMalindra's GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Stars Earned: 10, Total Commits in 2026 : 96, Total PRs: 19, Total Issues: 1, Contributed to (last year): 2</desc>
+        <desc id="descId">Total Stars Earned: 10, Total Commits in 2026 : 100, Total PRs: 20, Total Issues: 1, Contributed to (last year): 2</desc>
         
 
         
@@ -824,7 +824,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >96</text>
+      >100</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -839,7 +839,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >19</text>
+      >20</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -895,7 +895,7 @@
         width: 0px;
       }
       to {
-        width: 69.6px;
+        width: 70.4px;
       }
     }
     #Commits-rank-progress{
@@ -1061,7 +1061,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
   
           <text x="50%" y="18" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="13" fill="#fe428e">Commits</text>
           <text x="50%" y="85" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10.5" fill="#a9fef7">High Committer</text>
-          <text x="50%" y="97" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10" fill="#a9fef7">187pt</text>
+          <text x="50%" y="97" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10" fill="#a9fef7">188pt</text>
           
     
     <rect
