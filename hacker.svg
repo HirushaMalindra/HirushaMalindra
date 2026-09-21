@@ -621,7 +621,7 @@
   <g font-family="monospace" fill="#73ff8f">
     <text x="55" y="72" font-size="22" opacity=".9">root@github:~$</text>
     <text x="245" y="72" font-size="22">
-      <tspan>./hello_world</tspan>
+      <tspan>./hey_buddy</tspan>
       <animate attributeName="opacity" values="1;1;0;0;1" dur="1.25s" repeatCount="indefinite"/>
     </text>
     <rect x="390" y="53" width="13" height="24" fill="#73ff8f">
