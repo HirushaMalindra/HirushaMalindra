@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="hacker.svg" width="700">
+  <img src="hacker.svg" width="750">
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1200">
@@ -22,5 +22,11 @@ $\color{#55ffff}{\text{𝑨𝑰 , 𝑪𝒚𝒃𝒆𝒓𝒔𝒆𝒄𝒖𝒓𝒊�
 $\color{#55ffff}{\text{𝑾𝒐𝒓𝒌𝒊𝒏𝒈 𝒕𝒐𝒘𝒂𝒓𝒅𝒔 𝒃𝒖𝒊𝒍𝒅𝒊𝒏𝒈 𝒔𝒆𝒄𝒖𝒓𝒆 𝒂𝒏𝒅 𝒊𝒏𝒕𝒆𝒍𝒍𝒊𝒈𝒆𝒏𝒕 𝒔𝒐𝒍𝒖𝒕𝒊𝒐𝒏𝒔}}$
 
 </div>
+<!--securityknightocat image-->
+<div>
+<img align="right" width="300" height="300" alt="securityknightocat-Photoroom" src="https://github.com/user-attachments/assets/80b2e0cb-405a-46b3-8f8b-37114408b21b" /></div>
+![Uploading securityknightocat-removebg-preview.png…]()
+
+
 
 ![My GitHub Game](game.gif)
