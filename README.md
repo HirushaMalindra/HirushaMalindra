@@ -50,6 +50,22 @@ $\color{#55ffff}{\text{𝑾𝒐𝒓𝒌𝒊𝒏𝒈 𝒕𝒐𝒘𝒂𝒓𝒅𝒔
 
 ![My GitHub Game](game.gif)
 
+
+<h2 align="center">$\color{#c5ff4a}{\text{Tᴇᴄʜ sᴛᴀᴄᴋ}}$ </h2> 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
+</picture>
+<br />
+
+<h3 align="left">Current Learning</h3>
+<ul align="left">
+<li>- 🧠 Deepening my knowledge in 𝑨𝒓𝒕𝒊𝒇𝒊𝒄𝒊𝒂𝒍 𝑰𝒏𝒕𝒆𝒍𝒍𝒊𝒈𝒆𝒏𝒄𝒆 and 𝑪𝒚𝒃𝒆𝒓𝒔𝒆𝒄𝒖𝒓𝒊𝒕𝒚.</li><br>
+<li>- 🐍 Expanding my skills in 𝒅𝒂𝒕𝒂 𝒎𝒂𝒏𝒊𝒑𝒖𝒍𝒂𝒕𝒊𝒐𝒏, 𝒘𝒆𝒃 𝒔𝒄𝒓𝒂𝒑𝒊𝒏𝒈, and 𝒂𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒐𝒏 𝒖𝒔𝒊𝒏𝒈 𝑷𝒚𝒕𝒉𝒐𝒏.</li><br>
+<li>- ☁️ Exploring cloud computing platforms and certification pathways for AWS and Microsoft Azure.</li><br>
+</ul>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=65&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
