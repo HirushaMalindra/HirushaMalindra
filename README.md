@@ -42,7 +42,7 @@ $\color{#55ffff}{\text{𝑾𝒐𝒓𝒌𝒊𝒏𝒈 𝒕𝒐𝒘𝒂𝒓𝒅𝒔
 <div align="right">
     
 <img height="200" src="https://github-readme-stats-fast.vercel.app/api/streak?username=HirushaMalindra&theme=radical" />
-<img height="200" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=HirushaMalindra&layout=compact&theme=radical" />
+<img height="250" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=HirushaMalindra&layout=compact&theme=radical" />
 
 
 </div>
