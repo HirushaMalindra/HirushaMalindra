@@ -38,12 +38,12 @@ $\color{#55ffff}{\text{𝑾𝒐𝒓𝒌𝒊𝒏𝒈 𝒕𝒐𝒘𝒂𝒓𝒅𝒔
 - 👯 Looking to collaborate on open-source AI projects, cloud-native apps, or cybersecurity tools<br>
 
 ---
-<div align="center">
+
   
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=HirushaMalindra&theme=radical)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=HirushaMalindra&layout=compact&theme=radical)
 
-</div>
+
 
 ![My GitHub Game](game.gif)
 
